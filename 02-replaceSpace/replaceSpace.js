@@ -17,8 +17,7 @@ function replaceSpace1(str) {
  * @param str
  * @returns {string}
  */
-function replaceSpace2(str)
-{
+function replaceSpace2(str) {
     var newString="";
     for(var i=0;i<str.length;i++)
     {
